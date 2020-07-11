@@ -4,8 +4,6 @@
 
 ## Initial Value Proposition and Consumer Segments:
 
-## Interview Question Template
-
 ## Interview Summary:
 #### Interview 1:
 
