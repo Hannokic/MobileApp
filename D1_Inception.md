@@ -14,3 +14,7 @@ I think the target users of our software are students and staff. They often take
 #### Interview 3:
 
 # Final Value Proposition and Consumer Segments:
+### Value proposition:
+Our project is to build a take-away software that allows people to order food from all over the city without leaving their homes, 	Whether it is normal or in this special period, the fast pace of life is exhausting. Our products are mainly aimed at students and those who have little time or energy to go out, so as to provide them with convenient and satisfying meal experience. We support multiple languages to provide convenient and convenient services for local people from various countries. We participate in the anonymous evaluation system, select the best restaurant from high to low, real-time online human customer service, guarantee the legitimate rights and interests of consumers, real-name authentication of food delivery personnel, and guarantee the health and safety channels
+### Consumer segment: 
+students and those who have little time or energy to go out.
